@@ -46,7 +46,7 @@ logo = pygame.image.load ( "/home/pi/python_games/SSB/ssb.jpg" )
 #Place Gameshow Logo on Screen With BLIT CMD
 screen.blit ( logo , ( 0 , 0 ) )
 
-# Set the font for the text. Windows computer so usd Ariel
+# Set the font for the text. Windows computer so used Arial
 myfont = pygame.font.SysFont("Ariel", 30)
 
 # Created Variable for the text on the screen
